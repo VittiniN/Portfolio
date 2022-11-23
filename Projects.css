@@ -1,0 +1,41 @@
+*{
+    list-style: none;
+}
+a{
+    color: #CDC6C3;
+    font-size: 20x;
+}
+
+body{
+  background-color:   #A38F85;
+}
+
+h1{
+    margin-left: 45%;
+    color: #e7d7c9;
+}
+
+h3{
+  color: #D4b2A7;
+}
+
+p{
+    line-height: 2.5;
+}
+
+h4{
+    color: #e7d7c9;
+}
+
+nav ul li a{
+    font-weight: bold;
+    color: #E7D7C9;
+    font-size: 15px;
+    margin-left: 88%;
+
+  }
+
+  
+
+
+
